@@ -1,0 +1,9 @@
+Epoch    0, loss.train = 0.2527, loss.val = 0.2586, loss.full = 0.2563
+Epoch   50, loss.train = 0.0461, loss.val = 0.0462, loss.full = 0.0461
+Epoch  100, loss.train = 0.0407, loss.val = 0.0421, loss.full = 0.0416
+Epoch  150, loss.train = 0.0446, loss.val = 0.0461, loss.full = 0.0455
+Epoch  200, loss.train = 0.0370, loss.val = 0.0379, loss.full = 0.0376
+Epoch  250, loss.train = 0.0363, loss.val = 0.0370, loss.full = 0.0367
+Epoch  300, loss.train = 0.0371, loss.val = 0.0387, loss.full = 0.0381
+Epoch  350, loss.train = 0.0373, loss.val = 0.0377, loss.full = 0.0375
+Epoch  400, loss.train = 0.0372, loss.val = 0.0384, loss.full = 0.0379
